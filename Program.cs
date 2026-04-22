@@ -23,7 +23,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // app.UseHttpsRedirection();
-app.MapGet("/", () => "ASP.NET Backend is running!");
+app.MapGet("/", () => "Hello Guys! I am ASP.NET Backend!");
 
 
 
